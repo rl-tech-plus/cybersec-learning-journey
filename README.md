@@ -17,3 +17,28 @@ This repository documents my learning journey, project notes, screenshots, lesso
 - CompTIA Security+ (In Progress)
 - AWS Solutions Architect Associate (In Progress)
 - Microsoft Azure Fundamentals (Planned)
+
+# Labs 
+
+| Lab | Topic                      | Status      |
+| --- | -------------------------- | ----------- |
+| 01  | GitHub Fundamentals        | In Progress |
+| 02  | Windows Security Audit     | Planned     |
+| 03  | Network Mapping            | Planned     |
+| 04  | Wireshark Analysis         | Planned     |
+| 05  | AWS EC2 Deployment         | Planned     |
+| 06  | AWS Static Website         | Planned     |
+| 07  | Vulnerability Scanning     | Planned     |
+| 08  | Active Directory Lab       | Planned     |
+| 09  | Incident Response Exercise | Planned     |
+| 10  | Azure IAM Lab              | Planned     |
+
+# Technologies
+- GitHub
+- AWS
+- Azure
+- Windows
+- Linux
+- WireShark
+- Nessus
+- Active Directory
