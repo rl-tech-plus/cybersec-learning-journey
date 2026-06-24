@@ -6,12 +6,12 @@ As of June 2026, I currently work as a Project Manager within the New York City 
 This repository documents my learning journey, project notes, screenshots, lessons learned, and technical documentation.
 
 # Current Focus Areas
-Cybersecurity
-Cloud Computing (AWS & Azure)
-Networking
-Identity & Access Management
-Infrastructure & Systems Administration
-Technical Project Management
+- Cybersecurity
+- Cloud Computing (AWS & Azure)
+- Networking
+- Identity & Access Management
+- Infrastructure & Systems Administration
+- Technical Project Management
 
 # Certifications
 CompTIA Security+ (In Progress)
