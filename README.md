@@ -14,6 +14,6 @@ This repository documents my learning journey, project notes, screenshots, lesso
 - Technical Project Management
 
 # Certifications
-CompTIA Security+ (In Progress)
-AWS Solutions Architect Associate (In Progress)
-Microsoft Azure Fundamentals (Planned)
+- CompTIA Security+ (In Progress)
+- AWS Solutions Architect Associate (In Progress)
+- Microsoft Azure Fundamentals (Planned)
